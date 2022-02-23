@@ -7,3 +7,4 @@
 - 💬 Ask me about coding
 
 - ⚡ Fun fact: I use vscode online: stackblitz.com
+- Get Started : https://github.com/orsoxii/orsoxii/blob/main/GetStarted.md
